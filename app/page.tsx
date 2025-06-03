@@ -15,7 +15,7 @@ export default function Home() {
       <Features2/>
       <Features />
       <IntegrationsSection />
-      <StatsSection />  
+      <StatsSection />    
       <FooterSection />
     </>
   );
